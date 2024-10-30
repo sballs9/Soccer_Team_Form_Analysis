@@ -1,0 +1,238 @@
+fixture_id,date,home_team,away_team,home_score,away_score
+65,2018-08-10,Manchester United,Leicester,2.0,1.0
+83,2018-08-19,Brighton,Manchester United,3.0,2.0
+94,2018-08-27,Manchester United,Tottenham,0.0,3.0
+97,2018-09-02,Burnley,Manchester United,0.0,2.0
+111,2018-09-15,Watford,Manchester United,1.0,2.0
+121,2018-09-22,Manchester United,Wolves,1.0,1.0
+125,2018-09-29,West Ham,Manchester United,3.0,1.0
+141,2018-10-06,Manchester United,Newcastle,3.0,2.0
+148,2018-10-20,Chelsea,Manchester United,2.0,2.0
+161,2018-10-28,Manchester United,Everton,2.0,1.0
+166,2018-11-03,Bournemouth,Manchester United,1.0,2.0
+182,2018-11-11,Manchester City,Manchester United,3.0,1.0
+190,2018-11-24,Manchester United,Crystal Palace,0.0,0.0
+204,2018-12-01,Southampton,Manchester United,2.0,2.0
+212,2018-12-05,Manchester United,Arsenal,2.0,2.0
+222,2018-12-08,Manchester United,Fulham,4.0,1.0
+229,2018-12-16,Liverpool,Manchester United,3.0,1.0
+237,2018-12-22,Cardiff,Manchester United,1.0,5.0
+251,2018-12-26,Manchester United,Huddersfield,3.0,1.0
+261,2018-12-30,Manchester United,Bournemouth,4.0,1.0
+272,2019-01-02,Newcastle,Manchester United,0.0,2.0
+283,2019-01-13,Tottenham,Manchester United,0.0,1.0
+290,2019-01-19,Manchester United,Brighton,2.0,1.0
+300,2019-01-29,Manchester United,Burnley,2.0,2.0
+311,2019-02-03,Leicester,Manchester United,0.0,1.0
+317,2019-02-09,Fulham,Manchester United,0.0,3.0
+332,2019-02-24,Manchester United,Liverpool,0.0,0.0
+339,2019-02-27,Crystal Palace,Manchester United,1.0,3.0
+350,2019-03-02,Manchester United,Southampton,3.0,2.0
+355,2019-03-10,Arsenal,Manchester United,2.0,0.0
+383,2019-03-30,Manchester United,Watford,2.0,1.0
+394,2019-04-02,Wolves,Manchester United,2.0,1.0
+401,2019-04-13,Manchester United,West Ham,2.0,1.0
+409,2019-04-21,Everton,Manchester United,4.0,0.0
+370,2019-04-24,Manchester United,Manchester City,0.0,2.0
+421,2019-04-28,Manchester United,Chelsea,1.0,1.0
+430,2019-05-05,Huddersfield,Manchester United,1.0,1.0
+441,2019-05-12,Manchester United,Cardiff,0.0,2.0
+157024,2019-08-11,Manchester United,Chelsea,4.0,0.0
+157034,2019-08-19,Wolves,Manchester United,1.0,1.0
+157039,2019-08-24,Manchester United,Crystal Palace,1.0,2.0
+157053,2019-08-31,Southampton,Manchester United,1.0,1.0
+157059,2019-09-14,Manchester United,Leicester,1.0,0.0
+157074,2019-09-22,West Ham,Manchester United,2.0,0.0
+157081,2019-09-30,Manchester United,Arsenal,1.0,1.0
+157090,2019-10-06,Newcastle,Manchester United,1.0,0.0
+157101,2019-10-20,Manchester United,Liverpool,1.0,1.0
+157111,2019-10-27,Norwich,Manchester United,1.0,3.0
+157115,2019-11-02,Bournemouth,Manchester United,1.0,0.0
+157129,2019-11-10,Manchester United,Brighton,3.0,1.0
+157142,2019-11-24,Sheffield Utd,Manchester United,3.0,3.0
+157149,2019-12-01,Manchester United,Aston Villa,2.0,2.0
+157160,2019-12-04,Manchester United,Tottenham,2.0,1.0
+157169,2019-12-07,Manchester City,Manchester United,1.0,2.0
+157181,2019-12-15,Manchester United,Everton,1.0,1.0
+157193,2019-12-22,Watford,Manchester United,2.0,0.0
+157201,2019-12-26,Manchester United,Newcastle,4.0,1.0
+157207,2019-12-28,Burnley,Manchester United,0.0,2.0
+157215,2020-01-01,Arsenal,Manchester United,2.0,0.0
+157231,2020-01-11,Manchester United,Norwich,4.0,0.0
+157238,2020-01-19,Liverpool,Manchester United,2.0,0.0
+157251,2020-01-22,Manchester United,Burnley,0.0,2.0
+157260,2020-02-01,Manchester United,Wolves,0.0,0.0
+157268,2020-02-17,Chelsea,Manchester United,0.0,2.0
+157281,2020-02-23,Manchester United,Watford,3.0,0.0
+157288,2020-03-01,Everton,Manchester United,1.0,1.0
+157301,2020-03-08,Manchester United,Manchester City,2.0,0.0
+157312,2020-06-19,Tottenham,Manchester United,1.0,1.0
+157319,2020-06-24,Manchester United,Sheffield Utd,3.0,0.0
+157328,2020-06-30,Brighton,Manchester United,0.0,3.0
+157339,2020-07-04,Manchester United,Bournemouth,5.0,2.0
+157347,2020-07-09,Aston Villa,Manchester United,0.0,3.0
+157359,2020-07-13,Manchester United,Southampton,2.0,2.0
+157368,2020-07-16,Crystal Palace,Manchester United,0.0,2.0
+157379,2020-07-22,Manchester United,West Ham,1.0,1.0
+157390,2020-07-26,Leicester,Manchester United,0.0,2.0
+592157,2020-09-19,Manchester United,Crystal Palace,1.0,3.0
+592161,2020-09-26,Brighton,Manchester United,2.0,3.0
+592177,2020-10-04,Manchester United,Tottenham,1.0,6.0
+592187,2020-10-17,Newcastle,Manchester United,1.0,4.0
+592197,2020-10-24,Manchester United,Chelsea,0.0,0.0
+592206,2020-11-01,Manchester United,Arsenal,0.0,1.0
+592215,2020-11-07,Everton,Manchester United,1.0,3.0
+592226,2020-11-21,Manchester United,West Brom,1.0,0.0
+592238,2020-11-29,Southampton,Manchester United,2.0,3.0
+592250,2020-12-05,West Ham,Manchester United,1.0,3.0
+592257,2020-12-12,Manchester United,Manchester City,0.0,0.0
+592266,2020-12-17,Sheffield Utd,Manchester United,2.0,3.0
+592276,2020-12-20,Manchester United,Leeds,6.0,2.0
+592285,2020-12-26,Leicester,Manchester United,2.0,2.0
+592296,2020-12-29,Manchester United,Wolves,1.0,0.0
+592306,2021-01-01,Manchester United,Aston Villa,2.0,1.0
+592141,2021-01-12,Burnley,Manchester United,0.0,1.0
+592326,2021-01-17,Liverpool,Manchester United,0.0,0.0
+592313,2021-01-20,Fulham,Manchester United,1.0,2.0
+592334,2021-01-27,Manchester United,Sheffield Utd,1.0,2.0
+592341,2021-01-30,Arsenal,Manchester United,0.0,0.0
+592357,2021-02-02,Manchester United,Southampton,9.0,0.0
+592366,2021-02-06,Manchester United,Everton,3.0,3.0
+592734,2021-02-14,West Brom,Manchester United,1.0,1.0
+592742,2021-02-21,Manchester United,Newcastle,3.0,1.0
+592746,2021-02-28,Chelsea,Manchester United,0.0,0.0
+592778,2021-03-03,Crystal Palace,Manchester United,0.0,0.0
+592761,2021-03-07,Manchester City,Manchester United,0.0,2.0
+592772,2021-03-14,Manchester United,West Ham,1.0,0.0
+592792,2021-04-04,Manchester United,Brighton,2.0,1.0
+592803,2021-04-11,Tottenham,Manchester United,1.0,3.0
+592812,2021-04-18,Manchester United,Burnley,3.0,1.0
+592819,2021-04-25,Leeds,Manchester United,0.0,0.0
+592837,2021-05-09,Aston Villa,Manchester United,1.0,3.0
+592849,2021-05-11,Manchester United,Leicester,1.0,2.0
+592831,2021-05-13,Manchester United,Liverpool,2.0,4.0
+592861,2021-05-18,Manchester United,Fulham,1.0,1.0
+592875,2021-05-23,Wolves,Manchester United,1.0,2.0
+710561,2021-08-14,Manchester United,Leeds,5.0,1.0
+710573,2021-08-22,Southampton,Manchester United,1.0,1.0
+710585,2021-08-29,Wolves,Manchester United,0.0,1.0
+710593,2021-09-11,Manchester United,Newcastle,4.0,1.0
+710604,2021-09-19,West Ham,Manchester United,1.0,2.0
+710613,2021-09-25,Manchester United,Aston Villa,0.0,1.0
+710622,2021-10-02,Manchester United,Everton,1.0,1.0
+710630,2021-10-16,Leicester,Manchester United,4.0,2.0
+710643,2021-10-24,Manchester United,Liverpool,0.0,5.0
+710653,2021-10-30,Tottenham,Manchester United,0.0,3.0
+710663,2021-11-06,Manchester United,Manchester City,0.0,2.0
+710674,2021-11-20,Watford,Manchester United,4.0,1.0
+710680,2021-11-28,Chelsea,Manchester United,1.0,1.0
+710692,2021-12-02,Manchester United,Arsenal,3.0,2.0
+710699,2021-12-05,Manchester United,Crystal Palace,1.0,0.0
+710715,2021-12-11,Norwich,Manchester United,0.0,1.0
+710741,2021-12-27,Newcastle,Manchester United,1.0,1.0
+710753,2021-12-30,Manchester United,Burnley,3.0,1.0
+710763,2022-01-03,Manchester United,Wolves,0.0,1.0
+710766,2022-01-15,Aston Villa,Manchester United,2.0,2.0
+710717,2022-01-19,Brentford,Manchester United,1.0,3.0
+710783,2022-01-22,Manchester United,West Ham,1.0,0.0
+710788,2022-02-08,Burnley,Manchester United,1.0,1.0
+710801,2022-02-12,Manchester United,Southampton,1.0,1.0
+710729,2022-02-15,Manchester United,Brighton,2.0,0.0
+710810,2022-02-20,Leeds,Manchester United,2.0,4.0
+710823,2022-02-26,Manchester United,Watford,0.0,0.0
+710830,2022-03-06,Manchester City,Manchester United,4.0,1.0
+710843,2022-03-12,Manchester United,Tottenham,3.0,2.0
+710862,2022-04-02,Manchester United,Leicester,1.0,1.0
+710869,2022-04-09,Everton,Manchester United,1.0,0.0
+710879,2022-04-16,Manchester United,Norwich,3.0,2.0
+710849,2022-04-19,Liverpool,Manchester United,4.0,0.0
+710886,2022-04-23,Arsenal,Manchester United,3.0,1.0
+710919,2022-04-28,Manchester United,Chelsea,1.0,1.0
+710899,2022-05-02,Manchester United,Brentford,3.0,0.0
+710908,2022-05-07,Brighton,Manchester United,4.0,0.0
+710931,2022-05-22,Crystal Palace,Manchester United,1.0,0.0
+867954,2022-08-07,Manchester United,Brighton,1.0,2.0
+867958,2022-08-13,Brentford,Manchester United,4.0,0.0
+867972,2022-08-22,Manchester United,Liverpool,2.0,1.0
+867984,2022-08-27,Southampton,Manchester United,0.0,1.0
+867990,2022-09-01,Leicester,Manchester United,0.0,1.0
+868001,2022-09-04,Manchester United,Arsenal,3.0,1.0
+868033,2022-10-02,Manchester City,Manchester United,6.0,3.0
+868041,2022-10-09,Everton,Manchester United,1.0,2.0
+868052,2022-10-16,Manchester United,Newcastle,0.0,0.0
+868065,2022-10-19,Manchester United,Tottenham,2.0,0.0
+868067,2022-10-22,Chelsea,Manchester United,1.0,1.0
+868084,2022-10-30,Manchester United,West Ham,1.0,0.0
+868086,2022-11-06,Aston Villa,Manchester United,3.0,1.0
+868098,2022-11-13,Fulham,Manchester United,1.0,2.0
+868114,2022-12-27,Manchester United,Nottingham Forest,3.0,0.0
+868125,2022-12-31,Wolves,Manchester United,0.0,1.0
+868134,2023-01-03,Manchester United,Bournemouth,3.0,0.0
+868141,2023-01-14,Manchester United,Manchester City,2.0,1.0
+868008,2023-01-18,Crystal Palace,Manchester United,1.0,1.0
+868147,2023-01-22,Arsenal,Manchester United,3.0,2.0
+868161,2023-02-04,Manchester United,Crystal Palace,2.0,1.0
+868021,2023-02-08,Manchester United,Leeds,2.0,2.0
+868170,2023-02-12,Leeds,Manchester United,0.0,2.0
+868181,2023-02-19,Manchester United,Leicester,3.0,0.0
+868201,2023-03-05,Liverpool,Manchester United,7.0,0.0
+868212,2023-03-12,Manchester United,Southampton,0.0,0.0
+868233,2023-04-02,Newcastle,Manchester United,2.0,0.0
+868192,2023-04-05,Manchester United,Brentford,1.0,0.0
+868242,2023-04-08,Manchester United,Everton,2.0,0.0
+868251,2023-04-16,Nottingham Forest,Manchester United,0.0,2.0
+868269,2023-04-27,Tottenham,Manchester United,2.0,2.0
+868284,2023-04-30,Manchester United,Aston Villa,1.0,0.0
+868219,2023-05-04,Brighton,Manchester United,1.0,0.0
+868294,2023-05-07,West Ham,Manchester United,1.0,0.0
+868304,2023-05-13,Manchester United,Wolves,2.0,0.0
+868306,2023-05-20,Bournemouth,Manchester United,0.0,1.0
+868264,2023-05-25,Manchester United,Chelsea,4.0,1.0
+868324,2023-05-28,Manchester United,Fulham,2.0,1.0
+1035046,2023-08-14,Manchester United,Wolves,1.0,0.0
+1035054,2023-08-19,Tottenham,Manchester United,2.0,0.0
+1035064,2023-08-26,Manchester United,Nottingham Forest,3.0,2.0
+1035067,2023-09-03,Arsenal,Manchester United,3.0,1.0
+1035081,2023-09-16,Manchester United,Brighton,1.0,3.0
+1035090,2023-09-23,Burnley,Manchester United,0.0,1.0
+1035101,2023-09-30,Manchester United,Crystal Palace,0.0,1.0
+1035114,2023-10-07,Manchester United,Brentford,2.0,1.0
+1035125,2023-10-21,Sheffield Utd,Manchester United,1.0,2.0
+1035134,2023-10-29,Manchester United,Manchester City,0.0,3.0
+1035140,2023-11-04,Fulham,Manchester United,0.0,1.0
+1035154,2023-11-11,Manchester United,Luton,1.0,0.0
+1035296,2023-11-26,Everton,Manchester United,0.0,3.0
+1035311,2023-12-02,Newcastle,Manchester United,1.0,0.0
+1035323,2023-12-06,Manchester United,Chelsea,2.0,1.0
+1035330,2023-12-09,Manchester United,Bournemouth,0.0,3.0
+1035339,2023-12-17,Liverpool,Manchester United,0.0,0.0
+1035352,2023-12-23,West Ham,Manchester United,2.0,0.0
+1035361,2023-12-26,Manchester United,Aston Villa,3.0,2.0
+1035370,2023-12-30,Nottingham Forest,Manchester United,2.0,1.0
+1035381,2024-01-14,Manchester United,Tottenham,2.0,2.0
+1035390,2024-02-01,Wolves,Manchester United,3.0,4.0
+1035401,2024-02-04,Manchester United,West Ham,3.0,0.0
+1035404,2024-02-11,Aston Villa,Manchester United,1.0,2.0
+1035418,2024-02-18,Luton,Manchester United,1.0,2.0
+1035431,2024-02-24,Manchester United,Fulham,1.0,2.0
+1035439,2024-03-03,Manchester City,Manchester United,3.0,1.0
+1035451,2024-03-09,Manchester United,Everton,2.0,0.0
+1035466,2024-03-30,Brentford,Manchester United,1.0,1.0
+1035480,2024-04-04,Chelsea,Manchester United,4.0,3.0
+1035490,2024-04-07,Manchester United,Liverpool,2.0,2.0
+1035494,2024-04-13,Bournemouth,Manchester United,2.0,2.0
+1035461,2024-04-24,Manchester United,Sheffield Utd,4.0,2.0
+1035518,2024-04-27,Manchester United,Burnley,1.0,1.0
+1035529,2024-05-06,Crystal Palace,Manchester United,4.0,0.0
+1035538,2024-05-12,Manchester United,Arsenal,0.0,1.0
+1035510,2024-05-15,Manchester United,Newcastle,3.0,2.0
+1035546,2024-05-19,Brighton,Manchester United,0.0,2.0
+1208021,2024-08-16,Manchester United,Fulham,1.0,0.0
+1208033,2024-08-24,Brighton,Manchester United,2.0,1.0
+1208047,2024-09-01,Manchester United,Liverpool,0.0,3.0
+1208058,2024-09-14,Southampton,Manchester United,0.0,3.0
+1208063,2024-09-21,Crystal Palace,Manchester United,0.0,0.0
+1208077,2024-09-29,Manchester United,Tottenham,0.0,3.0
+1208082,2024-10-06,Aston Villa,Manchester United,0.0,0.0
+1208095,2024-10-19,Manchester United,Brentford,2.0,1.0
+1208112,2024-10-27,West Ham,Manchester United,2.0,1.0
