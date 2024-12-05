@@ -117,7 +117,7 @@ if tab_selection == 'Line Graph':
                       font=dict(size=12))  # Adjust font size
 
     # Display the plot
-    st.plotly_chart(fig)
+    st.plotly_chart(fig, use_container_width=True)
 
      # Top 5 highest scoring months in terms of average goals per game
     top_5_highest_scoring_months = combined_df.nlargest(5, 'average_goals_per_game')
